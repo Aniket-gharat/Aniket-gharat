@@ -5,7 +5,7 @@
 - 📫 How to reach me: Drop me a message here on GitHub or connect with me on LinkedIn at
     https://www.linkedin.com/in/aniket-gharat-aab6b0229/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love watch animes.
+- ⚡ Fun fact: I love to watch animes.
 
 <!---
 Aniket-gharat/Aniket-gharat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
